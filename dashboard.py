@@ -261,6 +261,12 @@ def attributes_distribution( data ):
 
     return None
 
+
+
+def attributes_distribution( data ):
+    st.sidebar.title('Attributes Options')
+
+
 if __name__ == '__main__':
     # ETL
     # data extration
