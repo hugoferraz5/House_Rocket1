@@ -6,9 +6,12 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exemplo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplo_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exemplo_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exemplo_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/requiriments.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
       <recent name="C:\Users\manuc\repos\curso_python_zero_ao_ds\house_rocket_streamlit\Projeto" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dashboard2">
+  <component name="RunManager" selected="Python.dashboard">
     <configuration name="dashboard" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="house_rocket_streamlit" />
       <option name="INTERPRETER_OPTIONS" value="" />
