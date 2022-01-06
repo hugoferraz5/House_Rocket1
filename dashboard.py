@@ -385,7 +385,7 @@ def questoes_negocio(data):
     df2 = df2.rename(columns={'price_y': 'price', 'price_x': 'price_median'})  # alterando nome das colunas
     # criando coluna
     for i, row in df2.iterrows():
-        if (row['price_median'] >= row['price']) & (row['condition'] < 3):
+        if (row['price_median'] >= row['price']) & (row['condition'] >= 2):
             df2.loc[i, 'pay'] = 'sim'
         else:
             df2.loc[i, 'pay'] = 'nao'
@@ -436,9 +436,9 @@ def questoes_negocio(data):
     st.subheader('2. Uma vez comprado, qual é o melhor momento para vendê-lo e por qual preço?')
     df3 = df2.copy()
 
-    df3['season'] = df3['mes'].apply(lambda x: 'summer' if (x > 5) & (x < 8) else
-    'spring' if (x >= 2) & (x <= 5) else
-    'fall' if (x >= 8) & (x < 12) else
+    df3['season'] = df3['mes'].apply(lambda x: 'summer' if (x > 5) & (x <= 8) else
+    'spring' if (x > 2) & (x <= 5) else
+    'fall' if (x > 8) & (x < 12) else
     'winter')
 
     df3 = df3[df3['pay'] == 'sim']
