@@ -10,7 +10,7 @@ As requisições do CEO são:
 * Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 * Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
-A exploração e requisições do CEO podem ser encontradas em https://analytics-house-rocket1.herokuapp.com/
+As explorações e requisições do CEO podem ser encontradas em https://analytics-house-rocket1.herokuapp.com/
 
 ## Premissas de negócio 
 * Estação do ano foi um dos fatores para análise de compra do imóvel
