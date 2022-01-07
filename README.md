@@ -21,18 +21,31 @@ As explorações e requisições do CEO podem ser encontradas em https://analyti
 
 ## Insights de negócio
 * Imóveis com vista para a água são em média 30% mais caros
+
 Verdadeiro: Investir em casas com vista para água
+
 * Imóveis com data de construção menor que 1955 são em média 50% mais baratos
+
 Falso: Independe o investimento para data de construção acima ou abaixo de 1955
+
 * Imóveis sem porão com maior área total são 40% mais caros do que imóveis com porão
+
 Verdadeiro: Investir em casas sem porão
+
 * Imóveis antigos e não renovados são 40% mais baratos
+
 Verdadeiro: Investir em casas antigas e não reformadas e reformar para venda
+
 * Imóveis com mais banheiros são em média 5% mais caros
+
 Falso: Investir em casas com 3 a 5 banheiros
+
 * O crescimento do preço dos imóveis mês após mês no ano de 2014 é de 10%
+
 Falso: Investir em casas nos meses de menor custo
+
 * Imóveis com 3 banheiros tem um crescimento mês após mês de 15 %
+
 Falso: Investir em casas nos meses de menor custo
 ## Conclusão
 Nesse projeto foram requiridos pelo CEO 2 perguntas e elas foram respondidas através da exploração dos dados pelo Cientista de dados. As perguntas foram:
