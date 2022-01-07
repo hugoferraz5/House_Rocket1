@@ -1,7 +1,7 @@
 # House Rocket
 ## Apresentação
-A House Rocket é uma empresa focada na revenda de imóveis, ou seja compra imóveis com alto potencial de revenda e vende depois por um preço maior obtendo seu lucro. Vários são os pontos de análises para a compra de um imóvel como são os casos da sua localização e preços baixos.
-As melhores oportunidades de negócio deverão ser descobertas pelo cientista de dados e que poderão responder todas as requisições do CEO da empresa através da exploração dos dados.Logo, essa análise exploratória dos dados disponíveis poderão mostrar se o negócio sera positivo ou negativo.
+A House Rocket é uma empresa focada na revenda de imóveis, ou seja compra imóveis com alto potencial de revenda e vende depois por um preço maior obtendo seu lucro. Vários são os pontos de análises para a compra do imóvel como são os casos da sua localização e preços baixos.
+As melhores oportunidades de negócio deverão ser descobertas pelo cientista de dados e que poderão responder todas as requisições do CEO da empresa através da exploração dos dados.Logo, essa análise exploratória dos dados disponíveis poderão mostrar se o negócio será positivo ou negativo.
 Os dados podem ser encontrados em https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885
 
 
