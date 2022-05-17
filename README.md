@@ -56,4 +56,6 @@ Primeiramente, os imóveis foram divididos por região(zipcode) e em cada zipcod
 Com os imóveis aptos para compra, o melhor período(estação do ano) para revenda foi o verão, pois é o período onde o lucro será maior. As casas foram divididas por região(zipcode) e período(estação do ano) através da mediana dos preços de compra e suas datas.
 Se o imóvel tiver o preço de compra abaixo da mediana das casas em determinado período do ano por zipcode, terá um acréscimo de 30% no preço da revenda, senão terá apenas 10%.Logo, o objetivo foi alcançado.
 
+## Próximos Passos
+
 Para próximos passos, seria interessante retirar o porão e expandir mais o imóvel, pois casas sem porão e com áreas totatis maiores são 40% mais caros.
