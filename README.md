@@ -1,4 +1,9 @@
 # House Rocket
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91911052/168933137-774b3228-30db-4b76-a2ae-ea28ed9d6ec4.jpg" width="700px" />
+</div>
+
 ## Apresentação
 A House Rocket é uma empresa focada na revenda de imóveis, ou seja compra imóveis com alto potencial de revenda e vende depois por um preço maior obtendo seu lucro. Vários são os pontos de análises para a compra do imóvel como são os casos da sua localização e preços baixos.
 As melhores oportunidades de negócio deverão ser descobertas pelo cientista de dados e que poderão responder todas as requisições do CEO da empresa através da exploração dos dados.Logo, essa análise exploratória dos dados disponíveis poderão mostrar se o negócio será positivo ou negativo.
