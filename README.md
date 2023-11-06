@@ -87,4 +87,4 @@ Se o imóvel tiver o preço de compra abaixo da mediana das casas em determinado
 
 ## Próximos Passos
 
-Para próximos passos, seria interessante retirar o porão e expandir mais o imóvel, pois casas sem porão e com áreas totatis maiores são 40% mais caros.
+Para próximos passos, seria interessante retirar o porão e expandir mais o imóvel, pois casas sem porão e com áreas totais maiores são 40% mais caros.
