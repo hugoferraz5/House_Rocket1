@@ -21,7 +21,7 @@ As explorações e requisições do CEO podem ser encontradas em <a href="https:
 | id | ID das casas |
 | date | Data da venda da casa |
 | price | Preço de cada casa vendida |
-| bedrooms | Numero de quartos |
+| bedrooms | Número de quartos |
 | bathrooms | Número de banheiros: 0,5 significa um quarto com banheiro, mas sem chuveiro |
 | sqft_living | Metragem quadrada do espaço interior da casa |
 | sqft_lot | Metragem quadrada do terreno |
