@@ -7,7 +7,7 @@
 ## Apresentação
 A House Rocket é uma empresa focada na revenda de imóveis, ou seja compra imóveis com alto potencial de revenda e vende depois por um preço maior obtendo seu lucro. Vários são os pontos de análises para a compra do imóvel como são os casos da sua localização e preços baixos.
 As melhores oportunidades de negócio deverão ser descobertas pelo cientista de dados e que poderão responder todas as requisições do CEO da empresa através da exploração dos dados.Logo, essa análise exploratória dos dados disponíveis poderão mostrar se o negócio será positivo ou negativo.
-Os dados podem ser encontrados em https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885
+Os dados podem ser encontrados em <a href="//www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885">Kaggle</a>.
 
 
 As requisições do CEO são:
@@ -15,8 +15,7 @@ As requisições do CEO são:
 * Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 * Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
-As explorações e requisições do CEO podem ser encontradas em https://analytics-house-rocket1.herokuapp.com/
-
+As explorações e requisições do CEO podem ser encontradas <a href="https://github.com/hugoferraz5/House_Rocket1/blob/master/House_Rocket_Dashboard.ipynb">Jupyter</a> e os dashboards <a href="https://analytics-house-rocket1.herokuapp.com/">Dashboards_streamlit</a>.
 ## Premissas de negócio 
 * Estação do ano foi um dos fatores para análise de compra do imóvel
 * A coluna date mostra a data que a casa foi vendida anteriormente
