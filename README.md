@@ -16,6 +16,31 @@ As requisições do CEO são:
 * Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
 As explorações e requisições do CEO podem ser encontradas <a href="https://github.com/hugoferraz5/House_Rocket1/blob/master/House_Rocket_Dashboard.ipynb">Jupyter</a> e os dashboards <a href="https://analytics-house-rocket1.herokuapp.com/">Dashboards_streamlit</a>.
+| Attribute | Description |
+| :----- | :----- |
+| id | ID das casas |
+| date | Data da venda da casa |
+| price | Preço de cada casa vendida |
+| bedrooms | Numero de quartos |
+| bathrooms | Número de banheiros: 0,5 significa um quarto com banheiro, mas sem chuveiro |
+| sqft_living | Metragem quadrada do espaço interior da casa |
+| sqft_lot | Metragem quadrada do terreno |
+| floors | Número de pisos |
+| waterfront | Se a casa tinha vista para o mar ou não |
+| view | Índice de 0 a 4 de quão boa era a vista do imóvel |
+| condition | Índice de 1 a 5 sobre o estado da casa |
+| grade | Índice de 1 a 13: 1-3 fica aquém da construção e design de edifícios, 7 tem um nível médio de construção e design e 11-13 tem um nível de construção e design de alta qualidade |
+| sqft_above | Metragem quadrada do espaço interno da habitação acima do nível do solo |
+| sqft_basement | Metragem quadrada do espaço interno da habitação que fica abaixo do nível do solo |
+| yr_built | Ano em que a casa foi inicialmente construída |
+| yr_renovated | Ano da última reforma da casa |
+| zipcode | CEP da casa |
+| lat | Latitude |
+| long | Longitude |
+| sqft_living15 | Tamanho médio do espaço interno da habitação para as 15 casas mais próximas, em pés quadrados |
+| sqft_lot15 | Tamanho médio dos terrenos para as 15 casas mais próximas, em metros quadrados |
+
+
 ## Premissas de negócio 
 * Estação do ano foi um dos fatores para análise de compra do imóvel
 * A coluna date mostra a data que a casa foi vendida anteriormente
