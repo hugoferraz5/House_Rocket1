@@ -15,7 +15,7 @@ As requisições do CEO são:
 * Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 * Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
-As explorações e requisições do CEO podem ser encontradas <a href="https://github.com/hugoferraz5/House_Rocket1/blob/master/House_Rocket_Dashboard.ipynb">Jupyter</a> e os dashboards <a href="https://analytics-house-rocket1.herokuapp.com/">Dashboards_streamlit</a>.
+As explorações e requisições do CEO podem ser encontradas em <a href="https://github.com/hugoferraz5/House_Rocket1/blob/master/House_Rocket_Dashboard.ipynb">Jupyter</a> e os dashboards em <a href="https://analytics-house-rocket1.herokuapp.com/">Dashboards_streamlit</a>.
 | Attribute | Description |
 | :----- | :----- |
 | id | ID das casas |
