@@ -53,29 +53,52 @@ As explorações e requisições do CEO podem ser encontradas em <a href="https:
 
 **Verdadeiro**: Investir em casas com vista para água
 
+<img src="https://github.com/hugoferraz5/House_Rocket1/assets/91911052/92ed0523-2320-4b55-b2f9-498518e46928.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+
 * Imóveis com data de construção menor que 1955 são em média 50% mais baratos
 
 **Falso**: Independe o investimento para data de construção acima ou abaixo de 1955
+
+<img src="https://github.com/hugoferraz5/House_Rocket1/assets/91911052/bfbc42e2-45e7-466f-8b3e-c9742b2c7182.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
 
 * Imóveis sem porão com maior área total são 40% mais caros do que imóveis com porão
 
 **Verdadeiro**: Investir em casas sem porão
 
+<img src="(https://github.com/hugoferraz5/House_Rocket1/assets/91911052/726ae524-1c30-46d2-af28-c62479d82a2a.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
 * Imóveis antigos e não renovados são 40% mais baratos
 
 **Verdadeiro**: Investir em casas antigas e não reformadas e reformar para venda
+
+<img src="(https://github.com/hugoferraz5/House_Rocket1/assets/91911052/e1dbb679-5247-449b-810e-b37dfa8d3cbe.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
 
 * Imóveis com mais banheiros são em média 5% mais caros
 
 **Falso**: Investir em casas com 3 a 5 banheiros
 
+<img src="(https://github.com/hugoferraz5/House_Rocket1/assets/91911052/01138dd6-a561-461a-8a33-42282d33b7b5.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
 * O crescimento do preço dos imóveis mês após mês no ano de 2014 é de 10%
 
 **Falso**: Investir em casas nos meses de menor custo
 
+<img src="(https://github.com/hugoferraz5/House_Rocket1/assets/91911052/e92348e0-fbb9-4f5d-b0c4-9f19aeb0583c.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
 * Imóveis com 3 banheiros tem um crescimento mês após mês de 15 %
 
 **Falso**: Investir em casas nos meses de menor custo
+
+<img src="(https://github.com/hugoferraz5/House_Rocket1/assets/91911052/5164e4ad-bcc6-41bc-9e5e-2bffc1af168f.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
 
 ## Conclusão
 Nesse projeto foram requiridos pelo CEO 2 perguntas e elas foram respondidas através da exploração dos dados pelo Cientista de dados. As perguntas foram:
@@ -85,6 +108,8 @@ Nesse projeto foram requiridos pelo CEO 2 perguntas e elas foram respondidas atr
 Primeiramente, os imóveis foram divididos por região(zipcode) e em cada zipcode foi calculado as medianas dos preços de compras. A partir dessas medianas, as casas com preços menores e com condições maiores ou iguais a 2 foram selecionadas como aptas.
 Com os imóveis aptos para compra, o melhor período(estação do ano) para revenda foi o verão, pois é o período onde o lucro será maior. As casas foram divididas por região(zipcode) e período(estação do ano) através da mediana dos preços de compra e suas datas.
 Se o imóvel tiver o preço de compra abaixo da mediana das casas em determinado período do ano por zipcode, terá um acréscimo de 30% no preço da revenda, senão terá apenas 10%.Logo, o objetivo foi alcançado.
+<img src="(season](https://github.com/hugoferraz5/House_Rocket1/assets/91911052/045df525-bddc-4f81-9b86-5ac4aa01f475" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
 
 ## Próximos Passos
 
